@@ -27,7 +27,7 @@ function preload() {
 
 function setup() {
     createCanvas(666,1000);
-    background(backgroundImage);
+    //background(backgroundImage);
 
     images = [image1,image2,image3];
     
