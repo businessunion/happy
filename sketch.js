@@ -40,7 +40,7 @@ function setup() {
 }
 
 function draw() {
-    background(backgroundImage);
+    //background(backgroundImage);
 
     
     screenImages.forEach(function(image){
