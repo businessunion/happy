@@ -15,7 +15,7 @@ var screenImages = [];
 
 
 function preload() {
-      backgroundImage = loadImage('images/happy_show_background.jpg');
+     // backgroundImage = loadImage('images/happy_show_background.jpg');
     
   image1 = loadImage('images/the_cloud.jpg');
     image2 = loadImage('images/blythe_pano.jpg');
